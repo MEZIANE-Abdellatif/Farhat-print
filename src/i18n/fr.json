@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "homeTitle": "FARHAT PRINT — Impression à la demande au Maroc",
+    "homeDescription": "Personnalisez T-shirts, mugs, tote bags, casquettes et vestes. Ajoutez une photo, du texte, et commandez sur WhatsApp.",
+    "productsTitle": "Produits — FARHAT PRINT",
+    "productsDescription": "Choisissez un T-shirt, mug, tote bag, casquette ou veste et personnalisez-le dans le navigateur.",
+    "productTitle": "{name} — personnaliser | FARHAT PRINT",
+    "productDescription": "Personnalisez votre {name} avec photos, texte et cliparts. Aperçu sur le mockup, commande WhatsApp.",
+    "studioTitle": "Studio de création — {name} | FARHAT PRINT",
+    "studioDescription": "Studio complet pour votre {name} : import, texte, modèles, couleurs et mockup en direct.",
+    "cartTitle": "Panier — FARHAT PRINT",
+    "cartDescription": "Vérifiez vos produits personnalisés et envoyez la commande sur WhatsApp.",
+    "aboutTitle": "À propos — FARHAT PRINT",
+    "aboutDescription": "FARHAT PRINT est un atelier créatif d’impression à la demande au Maroc. Vos idées, nos impressions.",
+    "contactTitle": "Contact — FARHAT PRINT",
+    "contactDescription": "WhatsApp, téléphone, e-mail et réseaux de FARHAT PRINT.",
+    "privacyTitle": "Confidentialité — FARHAT PRINT",
+    "privacyDescription": "Comment FARHAT PRINT traite les informations sur ce site 100 % front-end.",
+    "termsTitle": "Conditions — FARHAT PRINT",
+    "termsDescription": "Conditions d’utilisation du personnalisateur et des commandes FARHAT PRINT."
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "skip": "Aller au contenu",
+    "language": "Langue"
+  },
+  "brand": {
+    "name": "FARHAT PRINT",
+    "tagline": "Creative • Printing",
+    "slogan": "Impression qui fait la différence"
+  },
+  "home": {
+    "kicker": "100% personnalisé",
+    "title": "Le produit qui te ressemble",
+    "subtitle": "Ton style, ton design, ton T-shirt. Impression à la demande au Maroc.",
+    "ctaStudio": "Je crée mon design",
+    "ctaCatalog": "Voir les produits",
+    "imagine": "Imagine · Crée · Porte",
+    "trustQuality": "Qualité premium",
+    "trustDesigns": "Designs uniques",
+    "trustPrint": "Impression haute qualité",
+    "trustSpeed": "Production rapide",
+    "passion": "Fait avec passion, pour un style qui claque.",
+    "categoriesTitle": "Ce que nous imprimons",
+    "howTitle": "Comment ça marche",
+    "step1Title": "Choisis un produit",
+    "step1Text": "T-shirt, mug, tote, casquette ou veste — couleur et taille.",
+    "step2Title": "Crée dans le navigateur",
+    "step2Text": "Photo, texte ou modèles. Rien n’est envoyé sur un serveur.",
+    "step3Title": "Commande sur WhatsApp",
+    "step3Text": "On reçoit l’aperçu et tes options, puis on imprime et on livre au Maroc.",
+    "giftsTitle": "Cadeaux uniques",
+    "delivery": "Livraison rapide partout au Maroc"
+  },
+  "products": {
+    "title": "Catalogue",
+    "subtitle": "Choisis un produit, puis ouvre le studio pour le personnaliser.",
+    "filterAll": "Tous",
+    "filterAria": "Filtrer par catégorie",
+    "from": "À partir de {price}",
+    "customize": "Personnaliser",
+    "view": "Voir le produit",
+    "color": "Couleur",
+    "size": "Taille",
+    "sides": "Face d’impression",
+    "front": "Devant",
+    "back": "Dos",
+    "details": "Détails",
+    "empty": "Aucun produit dans cette catégorie."
+  },
+  "categories": {
+    "tshirt": "T-shirts",
+    "mug": "Mugs",
+    "bag": "Sacs",
+    "cap": "Casquettes",
+    "jacket": "Vestes"
+  },
+  "productNames": {
+    "t-shirt": "T-shirt personnalisé",
+    "mug": "Mug personnalisé",
+    "magic-mug": "Mug magique",
+    "tote-bag": "Tote bag",
+    "cap": "Casquette",
+    "jacket": "Veste",
+    "hoodie": "Hoodie"
+  },
+  "productBlurb": {
+    "t-shirt": "T-shirt premium. Impression devant, dos, ou les deux.",
+    "mug": "Mug céramique pour photos, logos et illustrations.",
+    "magic-mug": "Mug magique : le motif apparaît avec une boisson chaude.",
+    "tote-bag": "Tote en canvas, léger, pour tous les jours.",
+    "cap": "Impression sur le panneau avant.",
+    "jacket": "Veste signature, print poitrine ou dos.",
+    "hoodie": "Hoodie confortable avec une grande zone d’impression."
+  },
+  "colors": {
+    "white": "Blanc",
+    "black": "Noir",
+    "navy": "Marine",
+    "royal": "Bleu royal",
+    "red": "Rouge",
+    "heather": "Gris chiné",
+    "natural": "Naturel"
+  },
+  "studio": {
+    "title": "Studio de création",
+    "loading": "Chargement du studio…",
+    "addText": "Ajouter du texte",
+    "upload": "Importer une image",
+    "uploadHint": "PNG, JPG, WebP ou SVG. 8 Mo max. Traitement uniquement dans le navigateur.",
+    "clipart": "Cliparts",
+    "templates": "Modèles",
+    "layers": "Objet sélectionné",
+    "textContent": "Texte",
+    "fill": "Couleur",
+    "fontSize": "Taille",
+    "duplicate": "Dupliquer",
+    "delete": "Supprimer",
+    "undo": "Annuler",
+    "redo": "Rétablir",
+    "addToCart": "Ajouter au panier",
+    "orderNow": "Commander sur WhatsApp",
+    "exportPreview": "Télécharger l’aperçu",
+    "exportPrint": "Télécharger le fichier d’impression",
+    "added": "Ajouté au panier",
+    "viewCart": "Voir le panier",
+    "printArea": "Zone d’impression",
+    "quantity": "Quantité",
+    "busyExport": "Préparation des fichiers…",
+    "defaultText": "Votre texte",
+    "noSelection": "Sélectionnez un objet pour le modifier.",
+    "templatesHint": "Un clic pour placer un layout prêt dans la zone d’impression."
+  },
+  "templates": {
+    "neon": "Nom néon",
+    "photo": "Cadre photo",
+    "couple": "Couple",
+    "rose": "Just a girl",
+    "ideas": "Good ideas"
+  },
+  "clipart": {
+    "heart": "Cœur",
+    "star": "Étoile",
+    "splash": "Splash",
+    "diamond": "Diamant",
+    "bolt": "Éclair"
+  },
+  "cart": {
+    "title": "Votre panier",
+    "empty": "Le panier est vide.",
+    "browse": "Voir les produits",
+    "item": "Article",
+    "qty": "Qté",
+    "remove": "Retirer",
+    "total": "Total",
+    "whatsappHint": "WhatsApp n’attache pas l’image tout seul. On télécharge un aperçu, puis le chat s’ouvre pour que tu l’envoies.",
+    "order": "Commander sur WhatsApp",
+    "continue": "Continuer à créer"
+  },
+  "about": {
+    "title": "Vos idées. Nos impressions.",
+    "lead": "FARHAT PRINT est un atelier créatif d’impression à la demande. Une photo, une phrase, un logo : on le transforme en objet à porter ou à offrir.",
+    "p1": "Tout se passe dans ton navigateur. Tes fichiers ne partent pas sur un serveur. Quand tu es prêt, tu envoies l’aperçu sur WhatsApp et on imprime.",
+    "p2": "T-shirts, mugs (dont mugs magiques), tote bags, casquettes, hoodies et vestes — produits avec soin au Maroc."
+  },
+  "contact": {
+    "title": "On imprime ensemble",
+    "lead": "WhatsApp est le plus rapide pour commander ou poser une question.",
+    "whatsapp": "WhatsApp",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "social": "Réseaux"
+  },
+  "legal": {
+    "privacyTitle": "Confidentialité",
+    "privacyBody": "Ce site fonctionne entièrement dans votre navigateur. Designs, imports et panier restent sur votre appareil (stockage local et IndexedDB). Pas de base de données ni de comptes. Si vous nous écrivez sur WhatsApp, la conversation suit les règles de WhatsApp.",
+    "termsTitle": "Conditions",
+    "termsBody": "Le personnalisateur est un outil d’aperçu. Les couleurs à l’écran peuvent légèrement différer de l’impression. Les commandes WhatsApp sont confirmées avant production. Les prix affichés peuvent être indicatifs ; le prix confirmé sur WhatsApp s’applique."
+  },
+  "errors": {
+    "fileType": "Choisissez une image PNG, JPG, WebP ou SVG.",
+    "fileSize": "Fichier trop lourd. Maximum 8 Mo.",
+    "generic": "Une erreur s’est produite. Réessayez."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  }
+}

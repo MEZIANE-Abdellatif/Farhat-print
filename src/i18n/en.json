@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "homeTitle": "FARHAT PRINT — Custom print on demand in Morocco",
+    "homeDescription": "Design your own T-shirts, mugs, tote bags, caps and jackets. Upload a photo, add text, and order on WhatsApp.",
+    "productsTitle": "Products — FARHAT PRINT",
+    "productsDescription": "Choose a T-shirt, mug, tote bag, cap or jacket and customize it in the browser.",
+    "productTitle": "{name} — customize | FARHAT PRINT",
+    "productDescription": "Customize your {name} with photos, text and clipart. Preview on the mockup and order on WhatsApp.",
+    "studioTitle": "Design studio — {name} | FARHAT PRINT",
+    "studioDescription": "Full design studio for your {name}: upload, text, templates, colors and live mockup.",
+    "cartTitle": "Cart — FARHAT PRINT",
+    "cartDescription": "Review your custom products and send your order on WhatsApp.",
+    "aboutTitle": "About — FARHAT PRINT",
+    "aboutDescription": "FARHAT PRINT is a creative print-on-demand studio in Morocco. Your idea, our print.",
+    "contactTitle": "Contact — FARHAT PRINT",
+    "contactDescription": "WhatsApp, phone, email and social links for FARHAT PRINT.",
+    "privacyTitle": "Privacy — FARHAT PRINT",
+    "privacyDescription": "How FARHAT PRINT handles information on this front-end website.",
+    "termsTitle": "Terms — FARHAT PRINT",
+    "termsDescription": "Terms of use for the FARHAT PRINT customizer and orders."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "language": "Language"
+  },
+  "brand": {
+    "name": "FARHAT PRINT",
+    "tagline": "Creative • Printing",
+    "slogan": "Print that makes the difference"
+  },
+  "home": {
+    "kicker": "100% custom",
+    "title": "The piece that looks like you",
+    "subtitle": "Your style, your design, your product. Print on demand in Morocco.",
+    "ctaStudio": "Start designing",
+    "ctaCatalog": "See products",
+    "imagine": "Imagine · Create · Wear",
+    "trustQuality": "Premium quality",
+    "trustDesigns": "Unique designs",
+    "trustPrint": "High-quality print",
+    "trustSpeed": "Fast production",
+    "passion": "Made with passion, for a style that pops.",
+    "categoriesTitle": "What we print",
+    "howTitle": "How it works",
+    "step1Title": "Pick a product",
+    "step1Text": "T-shirt, mug, tote, cap or jacket — choose a color and size.",
+    "step2Title": "Design in the browser",
+    "step2Text": "Upload a photo, add text or use templates. Nothing leaves your device.",
+    "step3Title": "Order on WhatsApp",
+    "step3Text": "We receive your preview and options, then we print and deliver in Morocco.",
+    "giftsTitle": "Unique gifts",
+    "delivery": "Fast delivery across Morocco"
+  },
+  "products": {
+    "title": "Catalog",
+    "subtitle": "Select a product, then open the studio to customize it.",
+    "filterAll": "All",
+    "filterAria": "Filter by category",
+    "from": "From {price}",
+    "customize": "Customize",
+    "view": "View product",
+    "color": "Color",
+    "size": "Size",
+    "sides": "Print side",
+    "front": "Front",
+    "back": "Back",
+    "details": "Details",
+    "empty": "No products in this category yet."
+  },
+  "categories": {
+    "tshirt": "T-shirts",
+    "mug": "Mugs",
+    "bag": "Bags",
+    "cap": "Caps",
+    "jacket": "Jackets"
+  },
+  "productNames": {
+    "t-shirt": "Custom T-shirt",
+    "mug": "Custom mug",
+    "magic-mug": "Magic mug",
+    "tote-bag": "Tote bag",
+    "cap": "Cap",
+    "jacket": "Jacket",
+    "hoodie": "Hoodie"
+  },
+  "productBlurb": {
+    "t-shirt": "Soft premium tee. Print front, back, or both.",
+    "mug": "Ceramic mug for photos, logos and illustrations.",
+    "magic-mug": "Heat-reveal mug: the design appears with a hot drink.",
+    "tote-bag": "Light canvas tote for everyday and gifts.",
+    "cap": "Front-panel print on a structured cap.",
+    "jacket": "Statement jacket with chest or back print.",
+    "hoodie": "Cozy hoodie with a large print area."
+  },
+  "colors": {
+    "white": "White",
+    "black": "Black",
+    "navy": "Navy",
+    "royal": "Royal blue",
+    "red": "Red",
+    "heather": "Heather grey",
+    "natural": "Natural"
+  },
+  "studio": {
+    "title": "Design studio",
+    "loading": "Loading the studio…",
+    "addText": "Add text",
+    "upload": "Upload image",
+    "uploadHint": "PNG, JPG, WebP or SVG. Max 8 MB. Processed only in your browser.",
+    "clipart": "Clipart",
+    "templates": "Templates",
+    "layers": "Selected object",
+    "textContent": "Text",
+    "fill": "Color",
+    "fontSize": "Size",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "undo": "Undo",
+    "redo": "Redo",
+    "addToCart": "Add to cart",
+    "orderNow": "Order on WhatsApp",
+    "exportPreview": "Download preview",
+    "exportPrint": "Download print file",
+    "added": "Added to cart",
+    "viewCart": "View cart",
+    "printArea": "Print area",
+    "quantity": "Quantity",
+    "busyExport": "Preparing your files…",
+    "defaultText": "Your text",
+    "noSelection": "Select an object to edit it.",
+    "templatesHint": "One tap to drop a ready layout into the print area."
+  },
+  "templates": {
+    "neon": "Neon name",
+    "photo": "Photo frame",
+    "couple": "Couple",
+    "rose": "Just a girl",
+    "ideas": "Good ideas"
+  },
+  "clipart": {
+    "heart": "Heart",
+    "star": "Star",
+    "splash": "Paint splash",
+    "diamond": "Diamond",
+    "bolt": "Bolt"
+  },
+  "cart": {
+    "title": "Your cart",
+    "empty": "Your cart is empty.",
+    "browse": "Browse products",
+    "item": "Item",
+    "qty": "Qty",
+    "remove": "Remove",
+    "total": "Total",
+    "whatsappHint": "WhatsApp cannot attach images automatically. We download a preview, then open the chat so you can send it.",
+    "order": "Order on WhatsApp",
+    "continue": "Keep designing"
+  },
+  "about": {
+    "title": "Your ideas. Our prints.",
+    "lead": "FARHAT PRINT is a creative print-on-demand studio. We turn a photo, a phrase or a logo into something you can wear or gift.",
+    "p1": "Everything on this site is designed in your browser. We do not upload your files to a server. When you are ready, you send the preview on WhatsApp and we print it.",
+    "p2": "T-shirts, mugs (including magic mugs), tote bags, caps, hoodies and jackets — produced with care in Morocco."
+  },
+  "contact": {
+    "title": "Let’s print something",
+    "lead": "WhatsApp is the fastest way to order or ask a question.",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "email": "Email",
+    "social": "Social"
+  },
+  "legal": {
+    "privacyTitle": "Privacy",
+    "privacyBody": "This website runs entirely in your browser. Designs, uploads and your cart stay on your device (local storage and IndexedDB). We do not operate a server-side database or account system. If you contact us on WhatsApp, that conversation follows WhatsApp’s own privacy rules.",
+    "termsTitle": "Terms",
+    "termsBody": "The customizer is provided as a preview tool. Colors on screen can differ slightly from the printed result. Orders placed via WhatsApp are confirmed with you before production. Placeholder prices may change; the WhatsApp confirmation is the price that applies."
+  },
+  "errors": {
+    "fileType": "Please choose a PNG, JPG, WebP or SVG image.",
+    "fileSize": "This file is too large. Maximum size is 8 MB.",
+    "generic": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

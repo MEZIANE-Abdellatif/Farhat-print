@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #070910;
+  --color-foreground: #f4f1ea;
+  --color-brand-blue: #5ce1ff;
+  --color-brand-red: #ff5d7a;
+  --color-navy: #070910;
+  --color-ink: #070910;
+  --color-paper: #f4f1ea;
+  --color-panel: #10151f;
+  --font-sans: var(--font-outfit);
+  --font-display: var(--font-bebas);
+  --font-arabic: var(--font-noto-arabic);
+}
+
+:root {
+  --background: #070910;
+  --foreground: #f4f1ea;
+}
+
+html,
+body {
+  background: var(--background);
+  color: var(--foreground);
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-sans), var(--font-arabic), system-ui, sans-serif;
+}
+
+body::before {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+h1,
+h2,
+h3,
+.font-display {
+  font-family: var(--font-display), var(--font-arabic), system-ui, sans-serif;
+  letter-spacing: 0.06em;
+}
+
+:focus-visible {
+  outline: 2px solid #5ce1ff;
+  outline-offset: 3px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.focus\:not-sr-only:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: inherit;
+  margin: inherit;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+}
+
+.canvas-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.neon-text {
+  text-shadow:
+    0 0 18px rgba(92, 225, 255, 0.45),
+    0 0 42px rgba(255, 93, 122, 0.22);
+}
+
+.look-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1.5rem;
+}
+
+.look-card img {
+  transition: transform 0.7s ease;
+}
+
+.look-card:hover img {
+  transform: scale(1.06);
+}
